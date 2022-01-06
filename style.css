@@ -1,0 +1,36 @@
+body{
+    background-color: cadetblue;
+}    
+    
+    
+h1{
+    color:saddlebrown;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 70px;
+}
+
+.playercard{
+    width: 49%;
+    padding-top: 40px;
+    float: left;
+
+}
+#p1 {
+    
+        color: whitesmoke;
+        padding-left: 30rem; 
+}
+#p2{
+    color: whitesmoke;
+    padding-left: 127px;
+}
+#imageone {
+    height: 200px;
+    padding-left: 26rem; 
+}
+
+#imagetwo{
+    height: 200px;
+    padding-left: 4rem; 
+}
