@@ -1,2 +1,2 @@
 # DiceGame-JS-
-It is a simple and basic dice game build using html, css and javascript.
+It is a simple dice game build using html, css and javascript.
